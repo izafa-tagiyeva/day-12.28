@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|solutionrelative:practiceapp.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|solutionrelative:practiceapp.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|solutionrelative:practiceapp.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.dal\\context\\practiceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|solutionrelative:practiceapp.dal\\context\\practiceappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.dal\\practiceapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44C289DC-2107-417F-B928-72895F0C92B1}|PracticeApp.DAL\\PracticeApp.DAL.csproj|solutionrelative:practiceapp.dal\\practiceapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5976305-E7A9-4846-8F7E-C78960DC0B64}|PracticeApp.BL\\PracticeApp.BL.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.bl\\practiceapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5976305-E7A9-4846-8F7E-C78960DC0B64}|PracticeApp.BL\\PracticeApp.BL.csproj|solutionrelative:practiceapp.bl\\practiceapp.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|c:\\users\\ii novbe\\desktop\\task-12.28\\practiceapp\\practiceapp.core\\practiceapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{046B0C6D-083A-495C-9031-E8B851EEF376}|PracticeApp.Core\\PracticeApp.Core.csproj|solutionrelative:practiceapp.core\\practiceapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "PracticeApp.DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "PracticeApp.DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:37:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "PracticeApp.DAL\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeToolTip": "PracticeApp.DAL\\Configurations\\TagConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:37:10.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "PracticeApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "PracticeApp.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:36:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Tag.cs",
+              "RelativeToolTip": "PracticeApp.Core\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:10:17.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "PracticeApp.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:10:00.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "PracticeApp.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:09:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\GlobalUsings.cs",
+              "RelativeToolTip": "PracticeApp.Core\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:06:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "PracticeApp.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:04:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PracticeAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Context\\PracticeAppDbContext.cs",
+              "RelativeDocumentMoniker": "PracticeApp.DAL\\Context\\PracticeAppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\Context\\PracticeAppDbContext.cs",
+              "RelativeToolTip": "PracticeApp.DAL\\Context\\PracticeAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:57:10.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PracticeApp.BL",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.BL\\PracticeApp.BL.csproj",
+              "RelativeDocumentMoniker": "PracticeApp.BL\\PracticeApp.BL.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.BL\\PracticeApp.BL.csproj",
+              "RelativeToolTip": "PracticeApp.BL\\PracticeApp.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T13:52:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PracticeApp.Core",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\PracticeApp.Core.csproj",
+              "RelativeDocumentMoniker": "PracticeApp.Core\\PracticeApp.Core.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.Core\\PracticeApp.Core.csproj",
+              "RelativeToolTip": "PracticeApp.Core\\PracticeApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T13:52:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PracticeApp.DAL",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\PracticeApp.DAL.csproj",
+              "RelativeDocumentMoniker": "PracticeApp.DAL\\PracticeApp.DAL.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Task-12.28\\PracticeApp\\PracticeApp.DAL\\PracticeApp.DAL.csproj",
+              "RelativeToolTip": "PracticeApp.DAL\\PracticeApp.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T13:46:34.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
